@@ -35,6 +35,11 @@
       "not dead",
       "not op_mini all"
     ],
+      "engines": {
+        "npm": "6.4.1",
+        "node": "10.11.0",
+        "yarn": "1.10.1"
+      },
     "development": [
       "last 1 chrome version",
       "last 1 firefox version",
